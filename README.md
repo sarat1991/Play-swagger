@@ -1,2 +1,2 @@
 # Play-swagger
-Integrated with Swagger with Play project. 
+Integrated Swagger with Play project. 
